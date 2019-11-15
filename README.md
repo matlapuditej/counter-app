@@ -1,2 +1,2 @@
 # counter-app
-shopping
+List of Products in the shopping Cart
