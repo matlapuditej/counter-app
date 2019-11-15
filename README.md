@@ -1,3 +1,5 @@
+List of Products in the shopping Cart
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
